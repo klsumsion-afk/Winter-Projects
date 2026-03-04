@@ -7,7 +7,7 @@
 import Foundation
 
 struct Dragon: Identifiable {
-    let id: UUID
+    let id: UUID 
     var species: String
     var characteristics: String
     var abilities: String
